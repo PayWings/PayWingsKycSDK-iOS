@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		C93KsRS83U1b/fSlVFmRvHneipg=
+		KmKBVtqFW3gpHzWHOxkQFTs6X98=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		C93KsRS83U1b/fSlVFmRvHneipg=
+		KmKBVtqFW3gpHzWHOxkQFTs6X98=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			822XmDp4FXKQQS0TXoXhQmn0JRZMJxCFLOzUGG7/ebE=
+			OUr6x8YQZ/87CnbpFni1HM+M6hnDWFM72Y1atj1vfVg=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -132,7 +132,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			822XmDp4FXKQQS0TXoXhQmn0JRZMJxCFLOzUGG7/ebE=
+			OUr6x8YQZ/87CnbpFni1HM+M6hnDWFM72Y1atj1vfVg=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
