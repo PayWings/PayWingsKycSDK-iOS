@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PayWingsKycSDK-Swift.h</key>
 		<data>
-		55hjsYd9GhY0Cc2GWXg4G8hvrJk=
+		8ik6Z5RxmEFve4tzv1Y9ON8HNbQ=
 		</data>
 		<key>Headers/PayWingsKycSDK.h</key>
 		<data>
@@ -14,35 +14,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		v9KNTccsxncoKP4MK8FUovgtZB4=
+		E2CUdCU/cVyu6zS96muxqsv/2Dg=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		KmKBVtqFW3gpHzWHOxkQFTs6X98=
+		PW0JqMyjFdVoDe+qAaVcbhvI/Co=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		GLWoGGCqzSa4PNI2JyAz/t3iaio=
+		fouV21ErwcbSonHRXOIMUEEoS4I=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		ptrwCaAnLvE2l1GIJnUfUI3dWH0=
+		Gbjce+Wm/9rn7YkGJdp2WEu8VWo=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		GLWoGGCqzSa4PNI2JyAz/t3iaio=
+		fouV21ErwcbSonHRXOIMUEEoS4I=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2RA4OA7x/7OkXxBHO0CWXYMUPYQ=
+		o7As6Svpkwzx4oEsljzeGzwY79U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		4sCiPwK0SX5mpwQBDFZwz6mS0k4=
+		F/NjEVaZQjiAb2NxbhQBFNj0ulE=
 		</data>
 		<key>PayWingsKycSDK.podspec</key>
 		<data>
-		mfxAHQ5k+kzCFSdZl9v8Fu01+JY=
+		wiDMN/T0kDN8g9GuIQEVFNzMVqQ=
 		</data>
 		<key>VideoViewController.storyboardc/Info.plist</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>VideoViewController.storyboardc/VCp-Gf-IQR-view-Nly-7N-yBD.nib</key>
 		<data>
-		a8sVltMUpVl7nkSBuHzWIGKNlYU=
+		iYxa6saHRwrERudGErDbgKWtDpA=
 		</data>
 		<key>VideoViewController.storyboardc/VideoViewController.nib</key>
 		<data>
-		1KLv6SMhXw6biHkcgEjgKFLeHes=
+		1/uxWJ0BtCPO0iU4Zg5uwhZ6Yck=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FSCkGTsDdTSxpb08o3RYxoQAHm2MZ8HwLecpxWZm2dY=
+			e9xO5qBDhFdPq6hbyhJY5EcwsnwRM41Yc910Nxa0Kdo=
 			</data>
 		</dict>
 		<key>Headers/PayWingsKycSDK.h</key>
@@ -77,49 +77,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OUr6x8YQZ/87CnbpFni1HM+M6hnDWFM72Y1atj1vfVg=
+			psAQOmnhBaqWGFrxFtW5F4hdM8m3IxEsX2BRRwNcGkg=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/6+ni5ja1vu+criWqz1NH4cuJfUydUa09HVF9S+GT4=
+			mpOmBsFRhz8jwM6qOzSWDQlIzXioL7zDpIrhz/xcNPw=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8nciqCACRXReDYdTwGeY9961JRMVAmtlAhLo1++CH5U=
+			J6rgEA5z+md4WEMRgDI5RMVR4fgR4d115tIeuhAITGM=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/6+ni5ja1vu+criWqz1NH4cuJfUydUa09HVF9S+GT4=
+			mpOmBsFRhz8jwM6qOzSWDQlIzXioL7zDpIrhz/xcNPw=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IZIj9fzcoAA32kJxqufUdUh9oPvxga2dX8ZkcN4kAzE=
+			s9Yb1EEJQ5wevYNrc39cQUDoOiiS42rVA5bWG042+a8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IlF5lQvMDtr0nDl+s71/W2hP3SIpSMGcb1h1LPn0PVY=
+			1vioo9eXMO5Fd5VfJ06HBWFB/qUwLHe/JtfGUKX1IjE=
 			</data>
 		</dict>
 		<key>PayWingsKycSDK.podspec</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cxwSqy9WvYWU50Zc8pjRli2O1b/P98SvfwFD4UkYaaU=
+			9eD854mWX/J88W16m7gY2l3HsXMl0h3hNEBW1D10v3E=
 			</data>
 		</dict>
 		<key>VideoViewController.storyboardc/Info.plist</key>
@@ -133,14 +133,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8QE5KdgIrCXB4tmeTPbO93XtGsssWdI4f9nQmQTfDt8=
+			xWPMsrCS87cE+htlp53cQGTXmNi0WWczwZabkD2Kf+g=
 			</data>
 		</dict>
 		<key>VideoViewController.storyboardc/VideoViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BckuxIntA8cA16NGCZxMkOfaRFqW1mNBoOES+DBgWM4=
+			ILR/nF+7r63XTbiBTNn5OBxaFjc0ulHnE7q/mr53p48=
 			</data>
 		</dict>
 	</dict>

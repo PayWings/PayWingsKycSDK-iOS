@@ -1,7 +1,7 @@
 framework module PayWingsKycSDK {
   umbrella header "PayWingsKycSDK.h"
-
   export *
+
   module * { export * }
 }
 
