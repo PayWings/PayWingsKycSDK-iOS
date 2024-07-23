@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yWrSTvp3biRyjbEkUE2eBQB+5Rc=
+		AHF0rS5afToeSBMalXEECfvBNw8=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bT5dRnLHEEYYprY9tz7/rUuEk+k=
+		cq9LrknusPzCvTvktIXXJn4JlEs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>PayWingsKycSDK.podspec</key>
 		<data>
-		wiDMN/T0kDN8g9GuIQEVFNzMVqQ=
+		+IFF2jZYz29Das7MAyBYX2tfu5s=
 		</data>
 		<key>VideoViewController.storyboardc/Info.plist</key>
 		<data>
@@ -125,7 +125,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mCZj9qLC7WHUGoTWR6a+M4SmV+8OBrZlWbg93BTkhcc=
+			0ED3FWMevnccD2UkrJ8yvCx2YJJ//DgIdrjj1GwJQIM=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7eZJos5czCLa+dxPD9uWs3WLIM3YifHbmmTtv7LrhNs=
+			1+tlTkdcSQEzq+J/OI9y8r5Y8qu+lOoshGEQV0bdS88=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -174,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9eD854mWX/J88W16m7gY2l3HsXMl0h3hNEBW1D10v3E=
+			peVOVP28DgtVtBskp0oFoGADeYOEwl+6iJpGvUqD2Yc=
 			</data>
 		</dict>
 		<key>VideoViewController.storyboardc/Info.plist</key>
