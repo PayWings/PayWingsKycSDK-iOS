@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QV5iAzrF2pefyViip8OZ/y2lZok=
+		o7As6Svpkwzx4oEsljzeGzwY79U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>PayWingsKycSDK.podspec</key>
 		<data>
-		+IFF2jZYz29Das7MAyBYX2tfu5s=
+		mLUyzGKciLnAI5sVAxCPe7isKw4=
 		</data>
 		<key>VideoViewController.storyboardc/Info.plist</key>
 		<data>
@@ -105,7 +105,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M7D62QlQS//LaauAmCBGf5JBMJfwrKA/5AOZ7cYCt2U=
+			s9Yb1EEJQ5wevYNrc39cQUDoOiiS42rVA5bWG042+a8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -119,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			peVOVP28DgtVtBskp0oFoGADeYOEwl+6iJpGvUqD2Yc=
+			lin/Y0qUGpraRxzYCP4iiyKrCoFZMnSrSgfY3sWjaUg=
 			</data>
 		</dict>
 		<key>VideoViewController.storyboardc/Info.plist</key>
