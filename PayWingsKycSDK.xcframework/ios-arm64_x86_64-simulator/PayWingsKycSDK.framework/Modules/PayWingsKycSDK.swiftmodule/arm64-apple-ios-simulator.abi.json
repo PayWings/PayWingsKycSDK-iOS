@@ -55841,6 +55841,38 @@
         ]
       },
       {
+        "kind": "Function",
+        "name": "swift_override_conformsToSwiftProtocol",
+        "printedName": "swift_override_conformsToSwiftProtocol()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:14PayWingsKycSDK38swift_override_conformsToSwiftProtocolyyF",
+        "mangledName": "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E",
+        "moduleName": "PayWingsKycSDK",
+        "declAttributes": [
+          "AccessControl",
+          "SILGenName",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PayWingsKycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "ParameterEncoder",
         "printedName": "ParameterEncoder",

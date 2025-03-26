@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		niREcuCObLUNEPS0Y3lhlZ930Eg=
+		jpCoQrnnZln/fgNx8YR53A7WAiM=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		NDZYivvKxyAaiofpe5aGd8g+Umc=
+		Kvbk/RRXezhVUOQzEjOiAsNPMJE=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		oCYJapuXnvFYu8ywO+7/rOPZgUQ=
+		VGSjO3p1EsL6XoDMRBgcaeT/4qg=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		imGIR8z/yUa5+MbsdGHV2wK2q/Q=
+		22WL7UPHPgr2pwd4Yk2h1VEnXpg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5VgZB75j+BBoY7Fo76N9DyhpJFiyYPL0lrUA0ZQmiiQ=
+			OFoKEWpQ/1L0D4DesDU2kYJ3aj5djSKrCAkCoQDKoRw=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xF7H/HiGI96f53OGqq/GFno/QMu8By73aa7gnMuXTNs=
+			lD/oPVe1sn8ZTAssiQ5KY2pI8LVyn5R+OBE0QdoIg9I=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -102,14 +102,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3FNM/sFM6RlizaTHXszC1GJCM5o+z7jQELcxTTimObE=
+			rMMz3G2hckNUAzXrqWUAPDdMZZO4nZSXA+R9YzwnLfs=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MKAwuVMRa/3tp5fAvbeLthf5ySCvDJpkSRRKmQY+PFk=
+			oNEUSfbbiUh8J/GvKt2hu432EXvvTWJ9zPG83MXe84s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
