@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PayWingsKycSDK-Swift.h</key>
 		<data>
-		uBQE41acJMWAO22xMv33s9xNkNU=
+		QHyDfh/k5eEQhiBcy4kZbiPtobA=
 		</data>
 		<key>Headers/PayWingsKycSDK.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lW07IVtQH7fve+QpZdbdCKYdBv4=
+		uxCjQBFszCk8KZ2+sYeKLUiKpJU=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		jpCoQrnnZln/fgNx8YR53A7WAiM=
+		niREcuCObLUNEPS0Y3lhlZ930Eg=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		qCcbf77cM4nQa0TWq9YX0drlBRM=
+		KSTsC5Ev7DD9w+8YGVe4siv/BcI=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		gJEhMLiLinYO7ieLyqwUQu7xnds=
+		fsA3ovp3Xr5yHL2vx1aIdBmj+nY=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		nxFgrq3Jk5hSOLRz4WoDoxP6cTA=
+		Ej3uVR5xLTQ6pRnUCvqT61iCNJc=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ht9w5ibaug6YDdgk8dN3y8Seib4=
+		da6VzSVlUsq+muEmiXf+q4f9AYY=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		jpCoQrnnZln/fgNx8YR53A7WAiM=
+		niREcuCObLUNEPS0Y3lhlZ930Eg=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lBhaq49Y7HGMvyvb0pQTQeWAQFA=
+		XlZ/s7XjloLhTZwr5daVoNuA8Tc=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9AxqRdC7NjOYRhUxKa8hJfTGSmE=
+		U3G+QbYYBSuYksbu0Exo/pqoyuM=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		alSiA8/s3hlhuoD6+ofoJOxhGBU=
+		fLTNgD1xS+OhavU1B2V1c8okdx8=
 		</data>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		G3oPicih2Ml5GTVH4dixiVeluSY=
+		XNBaWk93hcgIBoWaqYQYaTnVdDo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>PayWingsKycSDK.podspec</key>
 		<data>
-		oHyLj6nCNgLwXhuX5D9hBX2sTkg=
+		IgIOPje9vRQxWp55fa+HlwABAj4=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -87,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NktTz0QpO95OCzTy09yvccyxg5uoZe+zWIg3rLHiv+Y=
+			Kb20C1W2RC9Qe7dFxBX4yJTyOxqZS+jWuNgKok0eFS0=
 			</data>
 		</dict>
 		<key>Headers/PayWingsKycSDK.h</key>
@@ -101,70 +101,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OFoKEWpQ/1L0D4DesDU2kYJ3aj5djSKrCAkCoQDKoRw=
+			5VgZB75j+BBoY7Fo76N9DyhpJFiyYPL0lrUA0ZQmiiQ=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			011oy6CXiX5QPE3s9BrtbGgEhNfSZ3ic2DzNeq3svbc=
+			N3XCO6f4BpYQW6zkGAeu+YzTKumm6LFWXXp8PTU6rco=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/8CLlDuw6TNgoIgWuXQYqTgWhXtj4j5Q2FwcnQ0dCBw=
+			kYw6yHzVHC255GbxdcMM4I/Y40JaiqC90+ELZlFhJ0M=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QL0kXj8h+42MieaJlVInwECJ7a+NkdxZU8UhliS9QTs=
+			scFOs3o4b+LWQQ41FHJHOitFAJ5EAYPZZ7cF50PYOIU=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AXGJXbwyTTtw7jqtpVHBRxrm1+2Phwe9MHak4DCZny8=
+			BdutBJlJAmqcfxaU6bPMVDsCkqYU9mypJoJgbThZkDM=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OFoKEWpQ/1L0D4DesDU2kYJ3aj5djSKrCAkCoQDKoRw=
+			5VgZB75j+BBoY7Fo76N9DyhpJFiyYPL0lrUA0ZQmiiQ=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jBo4IxGtJtyFYSDaMmqz+roPl3u/KCrZc7OGoFSVJBI=
+			5zqrwxFfl8F3h7OpNgYt2c7FyOpy5SCrhty+bxRbwkI=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xF8t03zfJs6XGq/1prYe5RrBQ6Riuxdgacrtj3GNxoE=
+			dBtk+DIQuOHYiEVOBisGhD+SozKuMVsvi1+BTUwWL0s=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wBvbBX3DASFFshfEJZ+dKQdcbiVaULvau2jCHHfYvzo=
+			4s9peK308ZtwRzSmFJNkgk5Wo5/AkhfDGPWSLo9qfks=
 			</data>
 		</dict>
 		<key>Modules/PayWingsKycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5n7wszmX7LlU4C0GASKhEuuFG4hLVWsvvp0PrM3jPWo=
+			ZolBcHjxbflM4wDt0rQFqJIuegOWb7akkIRswtgE/00=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -178,7 +178,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6UDG1f4uBB/C+CX7wT/XkNFmbnBd4Ce0/8z7vF2r9b4=
+			ZlMgJU0NT2sIusjNs2agTYCi9csRTY8DsXCTLuyxGz0=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>

@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
 // swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name PayWingsKycSDK
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import Combine
@@ -1973,8 +1973,6 @@ extension Foundation.CharacterSet {
   public static let afURLQueryAllowed: Foundation.CharacterSet
 }
 public typealias AFResult<Success> = Swift.Result<Success, PayWingsKycSDK.AFError>
-@_silgen_name("__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E")
-public func swift_override_conformsToSwiftProtocol()
 public protocol ParameterEncoder : Swift.Sendable {
   func encode<Parameters>(_ parameters: Parameters?, into request: Foundation.URLRequest) throws -> Foundation.URLRequest where Parameters : Swift.Encodable, Parameters : Swift.Sendable
 }
